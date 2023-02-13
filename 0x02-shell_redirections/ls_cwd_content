@@ -1,0 +1,18 @@
+#!/bin/bash
+ls -la >> ls_cwd_content
+total 52
+drwxr-xr-x 2 root root  242 Feb 13 07:34 .
+drwxr-xr-x 6 root root  193 Feb 13 00:32 ..
+-rwxr-xr-x 1 root root   32 Feb 13 04:07 0-hello_world
+-rwxr-xr-x 1 root root   29 Feb 13 02:18 1-confused_smiley
+-rwxr-xr-x 1 root root   28 Feb 13 02:24 2-hellofile
+-rwxr-xr-x 1 root root   39 Feb 13 04:10 3-twofiles
+-rwxr-xr-x 1 root root   29 Feb 13 04:15 4-lastlines
+-rwxr-xr-x 1 root root   29 Feb 13 04:19 5-firstlines
+-rwxr-xr-x 1 root root   38 Feb 13 05:30 6-third_line
+-rwxr-xr-x 1 root root  102 Feb 13 07:30 7-file
+-rwxr-xr-x 1 root root   37 Feb 13 07:34 8-cwd_state
+-rw-r--r-- 1 root root    9 Feb 13 05:38 a
+-rw-r--r-- 1 root root  916 Feb 13 04:22 iacta
+-rw-r--r-- 1 root root   37 Feb 13 07:32 ls_cwd_content
+-rw-r--r-- 1 root root 2127 Feb 13 01:49 README.md
